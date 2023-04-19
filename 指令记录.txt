@@ -1,0 +1,2 @@
+ls 查看文件
+git status 查看状态
