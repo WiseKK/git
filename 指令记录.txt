@@ -1,2 +1,3 @@
 ls 查看文件
 git status 查看状态
+git config --global core.quotepath false 文件名乱码解决
